@@ -4,6 +4,9 @@
 ## 📌 Project Overview
 This repository contains the complete documentation and step-by-step configuration for building a highly secure, custom Network Architecture on *AWS. The main objective is to host backend servers inside a **Private Subnet* (isolated from the public internet) while allowing them to fetch updates and outbound patches safely using a custom-configured *Linux NAT Instance*.
 
+
+<img width="1363" height="722" alt="صورة مشروع NAT" src="https://github.com/user-attachments/assets/ae8721a9-10d1-4f73-bd1b-1520b9acce56" />
+
 ---
 
 ## 🛠️ Architecture Components
